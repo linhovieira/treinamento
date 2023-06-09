@@ -21,7 +21,7 @@
 <p>Clone o projeto através do endereço:</p>
 
 ```
-git clone https://github.com/
+git clone https://github.com/linhovieira/treinamento-catalogo-filmes.git
 ```
 
 <p>Execute o comando abaixo na pasta raiz do projeto para empacotar a aplicação:</p>
